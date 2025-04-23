@@ -1,0 +1,12 @@
+# * pas optimal solution du solveur au bout de 1h, gap < 5%
+instance;objective_value
+f1_tap_3_400.dat;94.63
+f1_tap_9_400.dat;94.36
+f4_tap_0_20.dat;6.92
+f4_tap_1_400.dat;175.47*
+f4_tap_4_400.dat;179.71*
+tap_10_100.dat;43.33
+tap_11_250.dat;49.16
+tap_13_150.dat;47.03
+tap_14_400.dat;169.29
+tap_15_60.dat;14.46

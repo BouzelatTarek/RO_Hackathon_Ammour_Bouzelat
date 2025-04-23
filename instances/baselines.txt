@@ -1,0 +1,11 @@
+instances;epsilon_time;epsilon_distance
+f1_tap_3_400.dat;6600;540
+f1_tap_9_400.dat;6600;540
+f4_tap_0_20.dat;330;27
+f4_tap_1_400.dat;6600;540
+f4_tap_4_400.dat;6600;540
+tap_10_100.dat;1200;150
+tap_11_250.dat;1200;250
+tap_13_150.dat;1200;150
+tap_14_400.dat;6600;540
+tap_15_60.dat;330;27
