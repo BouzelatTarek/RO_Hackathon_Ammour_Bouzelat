@@ -42,10 +42,13 @@ public class Main {
     public static void main(String[] args) {
         //solution de depart
         //TAPSolver solver = new GreedyLocalSearchSolver();
+
         //meilleur solution choisie
         TAPSolver solver = new GreedyLocalSearchMultiStartSolver();
+
         //autre solution
         //TAPSolver solver = new GreedyLocalSearchMultiStartSolverSwap();
+
         //autre solution
         //TAPSolver solver = new GreedyLocalSearchMultiStartSolverTabu();
 
